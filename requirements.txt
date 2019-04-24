@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+glom
+uvloop
+motor
+jieba
+aiofiles
+matplotlib
+wordcloud
